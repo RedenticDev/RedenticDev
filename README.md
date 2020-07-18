@@ -1,4 +1,4 @@
-<img src="Me.png" width=100>
+<img src="https://github.com/RedenticDev/RedenticDev/Me.png" width=100>
 
 ## Hi, I'm Redentic 👋
 I'm a French tweaks developer who started contributing to the community in [March 2020](https://github.com/RedenticDev/SBColors). I really love programming & had skills in Java, C and many more. Jailbroken since iOS 11 and enjoying tweaks, I thought, "why not starting developing them?", and **here I am**.

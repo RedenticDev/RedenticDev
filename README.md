@@ -6,6 +6,12 @@ I'm a French tweaks developer who started contributing to the community in [Marc
 ### 🙌 My contribution to the community
 I've only done, I only do and will only do *free tweaks*, because I think the community deserves it, and I've only been well received so far. I'm totally open-minded, so don't hesitate to: fork and PR my tweaks, send me suggestions, report bugs & issues, or simply talk with me through my social medias :)
 
+### 🎯 My aims
+- Free and open-source software
+- High customization
+- Widest possible range of supported versions
+- Quick support
+
 ### 📖 Languages I've practiced
 Java, C, Objective-C (& Logos), HTML, CSS, JS, Swift (not that much), Shell (Bash & Batch), JSON, Python (G.O.A.T), Kotlin, SQL & R (hate this).
 

@@ -16,7 +16,7 @@ I've only done, I only do and will only do *free tweaks*, because I think the co
 Java, C, Objective-C (& Logos), HTML, CSS, JS, Swift (not that much), Shell (Bash & Batch), JSON, Python (G.O.A.T), Kotlin, SQL & R (hate this).
 
 ### 💻 Repo & social media
-**My repo : [redentic.dev](https://redentic.dev)** *(aka [redenticdev.github.io](https://github.com/RedenticDev/redenticdev.github.io))*  
+**My repo : [redentic.dev](https://redentic.dev)** _(available [here](https://github.com/RedenticDev/Repo))_  
 I'm available on [Twitter](https://twitter.com/RedenticDev), [Reddit](https://www.reddit.com/user/redentic), [GitHub](https://github.com/RedenticDev), [Paypal](https://www.paypal.me/redenticdev) & [Mail](mailto:redenticdev@gmail.com).
 
 ### 📊 Stats

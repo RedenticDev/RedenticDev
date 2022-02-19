@@ -1,4 +1,4 @@
-<img src="https://github.com/RedenticDev/RedenticDev/blob/master/Me.png?raw=true" width=100 alt="Redentic's Profile Picture">
+<img src="https://github.com/RedenticDev/RedenticDev/blob/main/Me.png?raw=true" width=100 alt="Redentic's Profile Picture">
 
 ## Hi, I'm Redentic 👋
 
